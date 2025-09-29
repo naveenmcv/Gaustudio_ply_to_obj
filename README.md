@@ -1,4 +1,46 @@
 # Gaustudio_ply_to_obj
+# REFER OFFICIAL METHOD BEFORE TRYING CHATGPT
+
+e - requirement for gaustuido
+plyfile
+torch
+torchvision
+tqdm
+opencv-python-headless
+trimesh
+omegaconf
+einops
+kiui
+scipy
+click
+open3d
+pyexr
+
+--
+
+# Create a new conda environment
+conda create -n gaustudio python=3.8
+# Activate the conda environment
+conda activate gaustudio
+
+--
+
+
+
+
+
+
+
+
+
+----------------------------------------------------------------------------------------------------------------
+# CHATGPT
+
+
+
+
+
+
 
 
 Nice — I’ll give you a tested, *copy-pasteable* step-by-step workflow (with comments) you can run from **Git Bash on your HP laptop** to:
